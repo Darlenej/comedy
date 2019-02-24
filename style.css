@@ -1,0 +1,56 @@
+header {
+    background-color:pink;
+    color:white;
+    padding-bottom: 30px;
+   
+}
+.h1 {
+color:red;
+}
+
+
+.names{
+    border:5px solid pink;
+    font-size:40px;
+    color: red;
+    text-decoration: none;
+    text-decoration-color: red;
+    list-style: none;
+}
+
+.container{
+    display:flex;
+    flex-direction: column;
+    flex-wrap:wrap;
+    width: 200px;
+    min-height:400px;
+
+}
+
+.sidenav{
+display:flex;
+background-color:pink;
+min-height:350px;
+float:left;
+width:200px;
+flex-direction:column;
+background-color:pink;
+text-decoration-color: white;
+margin:0;
+padding:0;
+font-size: 20px;
+width:200px;
+height:700px;
+}
+
+
+
+.all{
+    color:red;
+    display:flex;
+    flex-wrap:wrap;
+   width:300px;
+   margin-top:0px;
+   margin-left:400px;
+   
+}
